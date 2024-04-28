@@ -1,0 +1,36 @@
+html {
+    height: 100%;
+    width: 100%;
+  }
+  
+  .game {
+    display: block;
+    text-align: center;
+    margin-left: 25%;
+    margin-top: 15%;
+    width: 50%;
+  }
+
+  #computerChoice {
+    display: block;
+    margin: auto;
+    border: 1px solid pink;
+    width: fit-content;
+  }
+
+  body {
+    background-color: pink;
+  }
+
+header {
+    text-align: center;
+    margin-top: 5%;
+    background-color: white;
+    font-size: 20px;
+    color:gray;
+}
+
+#image{
+    margin-top: 5%;
+    margin-left: 44%;
+}
